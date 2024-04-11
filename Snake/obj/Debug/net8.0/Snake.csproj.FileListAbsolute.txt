@@ -1,0 +1,15 @@
+C:\Users\petrz\Documents\UTB\UTB-fai\AK8PO\Snake\Snake\bin\Debug\net8.0\Snake.exe
+C:\Users\petrz\Documents\UTB\UTB-fai\AK8PO\Snake\Snake\bin\Debug\net8.0\Snake.deps.json
+C:\Users\petrz\Documents\UTB\UTB-fai\AK8PO\Snake\Snake\bin\Debug\net8.0\Snake.runtimeconfig.json
+C:\Users\petrz\Documents\UTB\UTB-fai\AK8PO\Snake\Snake\bin\Debug\net8.0\Snake.dll
+C:\Users\petrz\Documents\UTB\UTB-fai\AK8PO\Snake\Snake\bin\Debug\net8.0\Snake.pdb
+C:\Users\petrz\Documents\UTB\UTB-fai\AK8PO\Snake\Snake\obj\Debug\net8.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petrz\Documents\UTB\UTB-fai\AK8PO\Snake\Snake\obj\Debug\net8.0\Snake.AssemblyInfoInputs.cache
+C:\Users\petrz\Documents\UTB\UTB-fai\AK8PO\Snake\Snake\obj\Debug\net8.0\Snake.AssemblyInfo.cs
+C:\Users\petrz\Documents\UTB\UTB-fai\AK8PO\Snake\Snake\obj\Debug\net8.0\Snake.csproj.CoreCompileInputs.cache
+C:\Users\petrz\Documents\UTB\UTB-fai\AK8PO\Snake\Snake\obj\Debug\net8.0\Snake.sourcelink.json
+C:\Users\petrz\Documents\UTB\UTB-fai\AK8PO\Snake\Snake\obj\Debug\net8.0\Snake.dll
+C:\Users\petrz\Documents\UTB\UTB-fai\AK8PO\Snake\Snake\obj\Debug\net8.0\refint\Snake.dll
+C:\Users\petrz\Documents\UTB\UTB-fai\AK8PO\Snake\Snake\obj\Debug\net8.0\Snake.pdb
+C:\Users\petrz\Documents\UTB\UTB-fai\AK8PO\Snake\Snake\obj\Debug\net8.0\Snake.genruntimeconfig.cache
+C:\Users\petrz\Documents\UTB\UTB-fai\AK8PO\Snake\Snake\obj\Debug\net8.0\ref\Snake.dll
